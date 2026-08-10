@@ -14,17 +14,17 @@ Let Maps of Content emerge over time.
 ## 🌱 Latest Growth
 Recently edited notes across the vault (most recent first).
 
-| Note                                                                 | Last Updated               | Links |
-| -------------------------------------------------------------------- | -------------------------- | ----- |
-| [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]] | 11:33 PM - August 10, 2026 | 0     |
-| [[Wiki/concepts/agentic-ai\|agentic-ai]]                          | 11:33 PM - August 10, 2026 | 5     |
-| [[Wiki/concepts/drm\|drm]]                                        | 11:33 PM - August 10, 2026 | 2     |
-| [[Wiki/concepts/print-on-demand\|print-on-demand]]                | 11:33 PM - August 10, 2026 | 4     |
-| [[Wiki/entities/cottony\|cottony]]                                | 11:33 PM - August 10, 2026 | 3     |
-| [[Wiki/entities/hermes-agent\|hermes-agent]]                      | 11:33 PM - August 10, 2026 | 4     |
-| [[Wiki/entities/ollama\|ollama]]                                  | 11:33 PM - August 10, 2026 | 4     |
-| [[Study/PKM System\|PKM System]]                                  | 10:09 PM - August 10, 2026 | 0     |
-| [[Study/Shirt Business\|Shirt Business]]                          | 10:09 PM - August 10, 2026 | 0     |
-| [[Study/NS Essentials\|NS Essentials]]                            | 10:09 PM - August 10, 2026 | 0     |
+| Note                                                                        | Last Updated               | Links |
+| --------------------------------------------------------------------------- | -------------------------- | ----- |
+| [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]]        | 11:59 PM - August 10, 2026 | 0     |
+| [[Digital Garden/🌱 How I Built This PKM\|🌱 How I Built This PKM]]      | 11:59 PM - August 10, 2026 | 0     |
+| [[Wiki/concepts/crosspoint-firmware\|crosspoint-firmware]]               | 11:59 PM - August 10, 2026 | 3     |
+| [[Wiki/entities/xteink-x4-pro\|xteink-x4-pro]]                           | 11:59 PM - August 10, 2026 | 3     |
+| [[Wiki/index\|index]]                                                    | 11:57 PM - August 10, 2026 | 0     |
+| [[Wiki/log\|log]]                                                        | 11:57 PM - August 10, 2026 | 0     |
+| [[Wiki/raw/articles/crosspoint-firmware-2026\|crosspoint-firmware-2026]] | 11:57 PM - August 10, 2026 | 0     |
+| [[Wiki/concepts/agentic-ai\|agentic-ai]]                                 | 11:33 PM - August 10, 2026 | 6     |
+| [[Wiki/concepts/drm\|drm]]                                               | 11:33 PM - August 10, 2026 | 4     |
+| [[Wiki/concepts/print-on-demand\|print-on-demand]]                       | 11:33 PM - August 10, 2026 | 4     |
 
 { .block-language-dataview}

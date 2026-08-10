@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entities/hermes-agent/","title":"Hermes Agent","tags":["#agent","#automation","#tool"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Hermes Agent","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["#agent","#automation","#tool"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/entities/hermes-agent/","title":"Hermes Agent","tags":["agent","automation","tool"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Hermes Agent","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["agent","automation","tool"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
 ---
 
 # Hermes Agent

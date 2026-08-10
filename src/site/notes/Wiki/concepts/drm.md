@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/concepts/drm/","title":"DRM (Digital Rights Management)","tags":["#concept","#research","#source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"DRM (Digital Rights Management)","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["#concept","#research","#source-type"],"sources":["raw/articles/drm-games-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/concepts/drm/","title":"DRM (Digital Rights Management)","tags":["concept","research","source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"DRM (Digital Rights Management)","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["concept","research","source-type"],"sources":["raw/articles/drm-games-2026.md"],"confidence":"high"}}
 ---
 
 # DRM (Digital Rights Management)

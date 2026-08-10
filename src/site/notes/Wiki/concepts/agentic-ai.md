@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/concepts/agentic-ai/","title":"Agentic AI","tags":["#concept","#agent","#automation"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Agentic AI","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["#concept","#agent","#automation"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/concepts/agentic-ai/","title":"Agentic AI","tags":["concept","agent","automation"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Agentic AI","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["concept","agent","automation"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
 ---
 
 # Agentic AI

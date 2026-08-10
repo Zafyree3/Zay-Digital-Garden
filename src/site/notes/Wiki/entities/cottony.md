@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entities/cottony/","title":"Cottony","tags":["#business","#tool","#source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Cottony","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["#business","#tool","#source-type"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/entities/cottony/","title":"Cottony","tags":["business","tool","source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:33:21.537+08:00","dg-note-properties":{"title":"Cottony","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["business","tool","source-type"],"sources":["raw/articles/pod-shirt-business-2026.md"],"confidence":"high"}}
 ---
 
 # Cottony
