@@ -2,6 +2,7 @@
 <html lang="{{ meta.mainLanguage }}">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <script data-goatcounter="https://zay-digital-garden.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
