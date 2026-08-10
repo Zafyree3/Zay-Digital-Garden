@@ -13,5 +13,24 @@ body {
     --link-color-hover: #ff4d4d;
     --link-external-color: #ff0000;
     --link-external-color-hover: #ff4d4d;
-    --text-muted: #b3b3b3;
+}
+
+/*** Red links everywhere (matches Obsidian accent #ff0000) ***/
+.content a {
+    color: #ff0000;
+}
+.content a:hover {
+    color: #ff4d4d;
+}
+.filetree a, .notelink, .toc-container li a, nav a {
+    color: #ff0000;
+}
+.filetree a:hover, .notelink:hover, .toc-container li a:hover, nav a:hover {
+    color: #ff4d4d;
+}
+.backlink-card a {
+    color: #ff0000;
+}
+.backlink-card a:hover {
+    color: #ff4d4d;
 }
