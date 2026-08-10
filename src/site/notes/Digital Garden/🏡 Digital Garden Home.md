@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","pinned":true,"tags":["#digitalgarden","gardenEntry"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.694+08:00","dg-note-properties":{"aliases":["Home"],"tags":["#digitalgarden","gardenEntry"],"created":"2026-08-10T15:40:00","updated":"2026-08-10T15:40:00"}}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","pinned":true,"tags":["digitalgarden","gardenEntry"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.694+08:00","dg-note-properties":{"aliases":["Home"],"tags":["digitalgarden","gardenEntry"],"created":"2026-08-10T15:40:00","updated":"2026-08-10T15:40:00"}}
 ---
 
 # 🏡 Zaf's Digital Garden
@@ -14,10 +14,10 @@ Welcome to my digital garden 🌱 — notes I'm cultivating in public.
 ## Explore
 - [[Map of Content\|Map of Content]] — where it all starts
 - [[Structure\|Structure]] — how the vault is organised
-- [[Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] — the tags & topics system
+- [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] — the tags & topics system
 - [[Books/📚 Library\|Books/📚 Library]] — books I'm reading
 - [[Books/📕 First Aid Manual 11th Edition\|Books/📕 First Aid Manual 11th Edition]]
-- [[Plugins\|Plugins]] · [[Templates\|Templates]] · [[Canvas\|Canvas]] · [[Emergence\|Emergence]] · [[Topics\|Topics]] · [[Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]
+- [[Topics/Plugins\|Plugins]] · [[Topics/Templates\|Templates]] · [[Topics/Canvas\|Canvas]] · [[Topics/Emergence\|Emergence]] · [[Topics/Topics\|Topics]] · [[Topics/Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]
 - [[Topics/Obsidian\|Topics/Obsidian]] · [[Topics/AI\|Topics/AI]] · [[Topics/Organisation\|Topics/Organisation]] · [[Topics/Daily Notes\|Topics/Daily Notes]] · [[Topics/Tags\|Topics/Tags]]
 
 ## Knowledge

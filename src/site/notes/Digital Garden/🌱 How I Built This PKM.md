@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/how-i-built-this-pkm/","tags":["#digitalgarden"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.684+08:00","dg-note-properties":{"aliases":["How I Built This"],"tags":["#digitalgarden"],"created":"2026-08-10T23:50:00","updated":"2026-08-10T23:50:00"}}
+{"dg-publish":true,"permalink":"/digital-garden/how-i-built-this-pkm/","tags":["digitalgarden"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.684+08:00","dg-note-properties":{"aliases":["How I Built This"],"tags":["digitalgarden"],"created":"2026-08-10T23:50:00","updated":"2026-08-10T23:50:00"}}
 ---
 
 # 🌱 How I Built This PKM

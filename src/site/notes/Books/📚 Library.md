@@ -8,96 +8,68 @@ All my books in one place. Reading status: unread → reading → done.
 
 
 ```base
+filters:
+  or:
+    - and:
+        - file.name.contains("📕")
+        - file.ext == "md"
 views:
   - type: table
     name: All Books
-    filter:
-      operator: and
-      conditions:
-        - field: tags
-          operator: contains
-          value: book
-    sorts:
-      - field: file.name
-        direction: asc
+    order:
+      - file.name
     columns:
-      - field: file.link
-        name: Book
-      - field: author
-        name: Author
-      - field: category
-        name: Category
-      - field: pages
-        name: Pages
-      - field: tags
-        name: Tags
+      - property: file.link
+        width: 260
+      - property: title
+        width: 180
+      - property: author
+        width: 120
+      - property: category
+        width: 140
+      - property: pages
+        width: 70
+      - property: tags
+        width: 120
   - type: table
     name: Unread
-    filter:
-      operator: and
-      conditions:
-        - field: tags
-          operator: contains
-          value: book
-        - field: tags
-          operator: contains
-          value: unread
+    filters:
+      and:
+        - file.hasTag("unread")
     columns:
-      - field: file.link
-        name: Book
-      - field: author
-        name: Author
-      - field: category
-        name: Category
+      - property: file.link
+        width: 260
+      - property: author
+        width: 140
   - type: table
     name: Reading
-    filter:
-      operator: and
-      conditions:
-        - field: tags
-          operator: contains
-          value: book
-        - field: tags
-          operator: contains
-          value: reading
+    filters:
+      and:
+        - file.hasTag("reading")
     columns:
-      - field: file.link
-        name: Book
-      - field: author
-        name: Author
+      - property: file.link
+        width: 260
+      - property: author
+        width: 140
   - type: table
     name: Done
-    filter:
-      operator: and
-      conditions:
-        - field: tags
-          operator: contains
-          value: book
-        - field: tags
-          operator: contains
-          value: completed
+    filters:
+      and:
+        - file.hasTag("completed")
     columns:
-      - field: file.link
-        name: Book
-      - field: author
-        name: Author
+      - property: file.link
+        width: 260
+      - property: author
+        width: 140
   - type: cards
     name: Covers
-    filter:
-      operator: and
-      conditions:
-        - field: tags
-          operator: contains
-          value: book
-    columns:
-      - field: cover
-        name: Cover
-      - field: file.link
-        name: Book
-      - field: author
-        name: Author
-      - field: status
-        name: Status
+    order:
+      - file.name
+      - tags
+    imageProp: cover
+    imageFit: contain
+    imageAspectRatio: 1
+    image: note.cover
 
 ```
 

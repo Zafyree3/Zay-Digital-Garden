@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/concepts/crosspoint-firmware/","title":"CrossPoint Firmware","tags":["#concept","#tool","#source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.627+08:00","dg-note-properties":{"title":"CrossPoint Firmware","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["#concept","#tool","#source-type"],"sources":["raw/articles/crosspoint-firmware-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/concepts/crosspoint-firmware/","title":"CrossPoint Firmware","tags":["concept","tool","source-type"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.627+08:00","dg-note-properties":{"title":"CrossPoint Firmware","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["concept","tool","source-type"],"sources":["raw/articles/crosspoint-firmware-2026.md"],"confidence":"high"}}
 ---
 
 # CrossPoint Firmware

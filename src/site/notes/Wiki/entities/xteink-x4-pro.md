@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entities/xteink-x4-pro/","title":"XTEINK X4 Pro","tags":["#tool","#source-type","#concept"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.627+08:00","dg-note-properties":{"title":"XTEINK X4 Pro","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["#tool","#source-type","#concept"],"sources":["raw/articles/crosspoint-firmware-2026.md"],"confidence":"high"}}
+{"dg-publish":true,"permalink":"/wiki/entities/xteink-x4-pro/","title":"XTEINK X4 Pro","tags":["tool","source-type","concept"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T23:59:42.627+08:00","dg-note-properties":{"title":"XTEINK X4 Pro","created":"2026-08-10","updated":"2026-08-10","type":"entity","tags":["tool","source-type","concept"],"sources":["raw/articles/crosspoint-firmware-2026.md"],"confidence":"high"}}
 ---
 
 # XTEINK X4 Pro

@@ -14,17 +14,17 @@ Let Maps of Content emerge over time.
 ## 🌱 Latest Growth
 Recently edited notes across the vault (most recent first).
 
-| Note                                                                        | Last Updated               | Links |
-| --------------------------------------------------------------------------- | -------------------------- | ----- |
-| [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]]        | 11:59 PM - August 10, 2026 | 0     |
-| [[Digital Garden/🌱 How I Built This PKM\|🌱 How I Built This PKM]]      | 11:59 PM - August 10, 2026 | 0     |
-| [[Wiki/concepts/crosspoint-firmware\|crosspoint-firmware]]               | 11:59 PM - August 10, 2026 | 3     |
-| [[Wiki/entities/xteink-x4-pro\|xteink-x4-pro]]                           | 11:59 PM - August 10, 2026 | 3     |
-| [[Wiki/index\|index]]                                                    | 11:57 PM - August 10, 2026 | 0     |
-| [[Wiki/log\|log]]                                                        | 11:57 PM - August 10, 2026 | 0     |
-| [[Wiki/raw/articles/crosspoint-firmware-2026\|crosspoint-firmware-2026]] | 11:57 PM - August 10, 2026 | 0     |
-| [[Wiki/concepts/agentic-ai\|agentic-ai]]                                 | 11:33 PM - August 10, 2026 | 6     |
-| [[Wiki/concepts/drm\|drm]]                                               | 11:33 PM - August 10, 2026 | 4     |
-| [[Wiki/concepts/print-on-demand\|print-on-demand]]                       | 11:33 PM - August 10, 2026 | 4     |
+| Note                                                                                          | Last Updated              | Links |
+| --------------------------------------------------------------------------------------------- | ------------------------- | ----- |
+| [[Topics/Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]                    | 7:03 AM - August 11, 2026 | 1     |
+| [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]]  | 7:03 AM - August 11, 2026 | 1     |
+| [[Topics/Topics\|Topics]]                                                                  | 7:03 AM - August 11, 2026 | 4     |
+| [[Topics/Templates\|Templates]]                                                            | 7:03 AM - August 11, 2026 | 2     |
+| [[Topics/Plugins\|Plugins]]                                                                | 7:03 AM - August 11, 2026 | 4     |
+| [[Topics/Emergence\|Emergence]]                                                            | 7:03 AM - August 11, 2026 | 1     |
+| [[Topics/Canvas\|Canvas]]                                                                  | 7:03 AM - August 11, 2026 | 1     |
+| [[Books/📕 The Angel Next Door Spoils Me Rotten\|📕 The Angel Next Door Spoils Me Rotten]] | 6:57 AM - August 11, 2026 | 0     |
+| [[Books/📖 Book Pipeline\|📖 Book Pipeline]]                                               | 6:54 AM - August 11, 2026 | 0     |
+| [[Books/📚 Epub Library\|📚 Epub Library]]                                                 | 6:54 AM - August 11, 2026 | 0     |
 
 { .block-language-dataview}
