@@ -1,13 +1,17 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    /*** Zaf's Obsidian accent: #ff0000 (red) — matches vault appearance.json ***/
+    --accent-h: 0;
+    --accent-s: 100%;
+    --accent-l: 50%;
+    --color-accent: #ff0000;
+    --color-accent-hsl: 0, 100%, 50%;
+    --interactive-accent: #ff0000;
+    --interactive-accent-hover: #cc0000;
+    --text-accent: #ff0000;
+    --text-accent-hover: #ff4d4d;
+    --link-color: #ff0000;
+    --link-color-hover: #ff4d4d;
+    --link-external-color: #ff0000;
+    --link-external-color-hover: #ff4d4d;
+    --text-muted: #b3b3b3;
 }
