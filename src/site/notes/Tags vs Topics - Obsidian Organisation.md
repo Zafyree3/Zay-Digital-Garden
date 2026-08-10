@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tags-vs-topics-obsidian-organisation/","dg-note-properties":{"tags":null,"topic":["[[Topics/Organisation]]","[[Topics/Tags]]","[[Topics\|Topics]]","[[Topics/Obsidian]]"],"updated":"2026-08-04T23:57:42","created":"2026-08-04T21:51:06"}}
+{"dg-publish":true,"permalink":"/tags-vs-topics-obsidian-organisation/","created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:30:18.644+08:00","dg-note-properties":{"tags":null,"topic":["[[Topics/Organisation]]","[[Topics/Tags]]","[[Topics\|Topics]]","[[Topics/Obsidian]]"],"updated":"2026-08-04T23:57:42","created":"2026-08-04T21:51:06"}}
 ---
 
 [[Topics/Tags\|Tags]]: a top-down approach

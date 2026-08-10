@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/tags/","tags":["#source","#book","#dailynote","#topic","#unread","#read","#notstarted","#inprogress","#completed","#idea","#task","#book/nonfiction","#book/fiction"],"dg-note-properties":{"tags":["#source","#book","#dailynote","#topic","#unread","#read","#notstarted","#inprogress","#completed","#idea","#task","#book/nonfiction","#book/fiction"],"topic":["[[Topics/Organisation]]","[[Topics/Tags]]","[[Topics/Obsidian]]"],"updated":"2026-08-04T23:57:42","created":"2026-08-04T00:00:00"}}
+{"dg-publish":true,"permalink":"/topics/tags/","created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:30:18.640+08:00","dg-note-properties":{"tags":null,"topic":["[[Topics/Organisation]]","[[Topics/Tags]]","[[Topics/Obsidian]]"],"updated":"2026-08-04T23:57:42","created":"2026-08-04T00:00:00"}}
 ---
 
 Tags has an available tags [[Plugins\|Plugin]] by [[Topics/Obsidian\|Obsidian]] that organises notes by their following tags.

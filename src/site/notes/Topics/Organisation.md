@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/topics/organisation/","tags":["topic"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:44:14.498+08:00","dg-note-properties":{"tags":["topic"],"topic":["[[Topics/Organisation]]"],"updated":"2026-08-10T04:30:00","created":"2026-08-04T21:51:10"}}
+---
+
+How I organise my vault — the system behind the folders, tags and topics.
+
+## 📚 Notes about this topic
+| Note                                                                                  | Updated                   | Tags                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Books/📚 Library\|📚 Library]]                                                   | 4:43 PM - August 10, 2026 | <ul><li>#library</li></ul>                                                                                                                                                                                                                    |
+| [[Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Emergence\|Emergence]]                                                           | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Topics\|Topics]]                                                                 | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Topics/Tags\|Tags]]                                                              | 4:30 PM - August 10, 2026 | <ul><li>#source</li><li>#book</li><li>#dailynote</li><li>#topic</li><li>#unread</li><li>#read</li><li>#notstarted</li><li>#inprogress</li><li>#completed</li><li>#idea</li><li>#task</li><li>#book/nonfiction</li><li>#book/fiction</li></ul> |
+| [[Structure\|Structure]]                                                           | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Hermes Integration\|Hermes Integration]]                                         | 3:19 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+
+{ .block-language-dataview}

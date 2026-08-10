@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/topics/obsidian/","tags":["topic"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:44:14.497+08:00","dg-note-properties":{"tags":["topic"],"topic":["[[Topics/Obsidian]]"],"created":"2026-08-05T13:22:46","updated":"2026-08-05T13:22:54"}}
+---
+
+
+## 📚 Notes about this topic
+| Note                                                                                  | Updated                   | Tags                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]                   | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Canvas\|Canvas]]                                                                 | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Templates\|Templates]]                                                           | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Topics\|Topics]]                                                                 | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+| [[Topics/Tags\|Tags]]                                                              | 4:30 PM - August 10, 2026 | <ul><li>#source</li><li>#book</li><li>#dailynote</li><li>#topic</li><li>#unread</li><li>#read</li><li>#notstarted</li><li>#inprogress</li><li>#completed</li><li>#idea</li><li>#task</li><li>#book/nonfiction</li><li>#book/fiction</li></ul> |
+| [[Plugins\|Plugins]]                                                               | 4:30 PM - August 10, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
+
+{ .block-language-dataview}
