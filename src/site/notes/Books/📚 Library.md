@@ -8,10 +8,9 @@ All my books in one place. Reading status: unread → reading → done.
 
 
 ```base
----
 views:
-  - name: All Books
-    type: table
+  - type: table
+    name: All Books
     filter:
       operator: and
       conditions:
@@ -32,8 +31,8 @@ views:
         name: Pages
       - field: tags
         name: Tags
-  - name: Unread
-    type: table
+  - type: table
+    name: Unread
     filter:
       operator: and
       conditions:
@@ -50,8 +49,8 @@ views:
         name: Author
       - field: category
         name: Category
-  - name: Reading
-    type: table
+  - type: table
+    name: Reading
     filter:
       operator: and
       conditions:
@@ -66,8 +65,8 @@ views:
         name: Book
       - field: author
         name: Author
-  - name: Done
-    type: table
+  - type: table
+    name: Done
     filter:
       operator: and
       conditions:
@@ -82,8 +81,8 @@ views:
         name: Book
       - field: author
         name: Author
-  - name: Covers
-    type: cards
+  - type: cards
+    name: Covers
     filter:
       operator: and
       conditions:

@@ -14,17 +14,17 @@ Let Maps of Content emerge over time.
 ## 🌱 Latest Growth
 Recently edited notes across the vault (most recent first).
 
-| Note                                                                                  | Last Updated              | Links |
-| ------------------------------------------------------------------------------------- | ------------------------- | ----- |
-| [[Books/📚 Library\|📚 Library]]                                                   | 5:47 PM - August 10, 2026 | 1     |
-| [[Topics/Daily Notes\|Daily Notes]]                                                | 4:44 PM - August 10, 2026 | 2     |
-| [[Topics/Organisation\|Organisation]]                                              | 4:44 PM - August 10, 2026 | 9     |
-| [[Topics/AI\|AI]]                                                                  | 4:44 PM - August 10, 2026 | 3     |
-| [[Topics/Obsidian\|Obsidian]]                                                      | 4:44 PM - August 10, 2026 | 9     |
-| [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]]                  | 4:43 PM - August 10, 2026 | 0     |
-| [[Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]                   | 4:30 PM - August 10, 2026 | 1     |
-| [[Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] | 4:30 PM - August 10, 2026 | 1     |
-| [[Canvas\|Canvas]]                                                                 | 4:30 PM - August 10, 2026 | 1     |
-| [[Emergence\|Emergence]]                                                           | 4:30 PM - August 10, 2026 | 1     |
+| Note                                                                 | Last Updated               | Links |
+| -------------------------------------------------------------------- | -------------------------- | ----- |
+| [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]] | 11:33 PM - August 10, 2026 | 0     |
+| [[Wiki/concepts/agentic-ai\|agentic-ai]]                          | 11:33 PM - August 10, 2026 | 5     |
+| [[Wiki/concepts/drm\|drm]]                                        | 11:33 PM - August 10, 2026 | 2     |
+| [[Wiki/concepts/print-on-demand\|print-on-demand]]                | 11:33 PM - August 10, 2026 | 4     |
+| [[Wiki/entities/cottony\|cottony]]                                | 11:33 PM - August 10, 2026 | 3     |
+| [[Wiki/entities/hermes-agent\|hermes-agent]]                      | 11:33 PM - August 10, 2026 | 4     |
+| [[Wiki/entities/ollama\|ollama]]                                  | 11:33 PM - August 10, 2026 | 4     |
+| [[Study/PKM System\|PKM System]]                                  | 10:09 PM - August 10, 2026 | 0     |
+| [[Study/Shirt Business\|Shirt Business]]                          | 10:09 PM - August 10, 2026 | 0     |
+| [[Study/NS Essentials\|NS Essentials]]                            | 10:09 PM - August 10, 2026 | 0     |
 
 { .block-language-dataview}
