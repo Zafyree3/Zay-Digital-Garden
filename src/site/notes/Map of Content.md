@@ -16,12 +16,12 @@ Recently edited notes across the vault (most recent first).
 
 | Note                                                                                  | Last Updated              | Links |
 | ------------------------------------------------------------------------------------- | ------------------------- | ----- |
+| [[Books/📚 Library\|📚 Library]]                                                   | 5:47 PM - August 10, 2026 | 1     |
 | [[Topics/Daily Notes\|Daily Notes]]                                                | 4:44 PM - August 10, 2026 | 2     |
 | [[Topics/Organisation\|Organisation]]                                              | 4:44 PM - August 10, 2026 | 9     |
 | [[Topics/AI\|AI]]                                                                  | 4:44 PM - August 10, 2026 | 3     |
 | [[Topics/Obsidian\|Obsidian]]                                                      | 4:44 PM - August 10, 2026 | 9     |
 | [[Digital Garden/🏡 Digital Garden Home\|🏡 Digital Garden Home]]                  | 4:43 PM - August 10, 2026 | 0     |
-| [[Books/📚 Library\|📚 Library]]                                                   | 4:43 PM - August 10, 2026 | 1     |
 | [[Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]                   | 4:30 PM - August 10, 2026 | 1     |
 | [[Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] | 4:30 PM - August 10, 2026 | 1     |
 | [[Canvas\|Canvas]]                                                                 | 4:30 PM - August 10, 2026 | 1     |
