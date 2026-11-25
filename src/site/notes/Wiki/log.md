@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/wiki/log/","title":"Wiki Log","tags":["wiki","log","system"],"created":"2026-08-10T00:00:00.000+08:00","updated":"2026-11-25T00:00:00.000+08:00","dg-note-properties":{"title":"Wiki Log","type":"reference","tags":["wiki","log","system"],"created":"2026-08-10T00:00:00.000+08:00","updated":"2026-11-25T00:00:00.000+08:00"}}
 ---
 # Wiki Log
 
@@ -245,3 +245,21 @@
 - Tooling: `~/hermes-pipelines/garden-publish/publish_notes.py` — deterministic
   transform (JSON frontmatter, slugified permalinks, root-relative wikilinks) with a
   link-resolution check that fails the run on any dead target.
+
+## [2026-11-25] reconcile | Garden drift: flags vs what is live
+- Audited every `dg-publish: true` flag against the garden repo. Two directions found.
+- **Flagged but not live (10)** — published: the First Aid entity set (cpr, aed,
+  recovery-position, choking-fbao, bleeding-control, burns, first-aid-moc),
+  `Topics/First Aid`, and two research entities (freellmapi, jev). All clean;
+  the first-aid notes had been public in the flag but dead on the site.
+- **Live but not flagged (1)** — a private book index page and its cover images were
+  removed from the garden; the vault note is `dg-publish: false` and lists the whole
+  library, so the site should never have had it.
+- **Dead links (14 targets, 6 pages)** — legacy pages rendered from Dataview tables
+  that pointed at private or never-created notes. Fixed two ways: the transform now
+  rebuilds Dataview as a list of *published* notes, and links that resolve to a
+  private note degrade to plain text (`--allow-dead`) instead of shipping a 404.
+- This log had no frontmatter at all despite being live since August; it now carries
+  a proper published flag.
+- `~/hermes-pipelines/garden-publish/reconcile.py` — repeatable audit: flags vs live,
+  plus every dead wikilink in the garden.

@@ -1,30 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/map-of-content/","created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:30:18.638+08:00","dg-note-properties":{"tags":null,"topic":null,"updated":"2026-08-04T23:57:39","aliases":["MoC"],"created":"2026-08-04T21:51:10"}}
+{"dg-publish":true,"permalink":"/map-of-content/","tags":["moc"],"created":"2026-08-04T21:51:10.000+08:00","updated":"2026-10-24T18:30:00.000+08:00","dg-note-properties":{"tags":["moc"],"updated":"2026-10-24T18:30:00.000+08:00","aliases":["MoC"],"created":"2026-08-04T21:51:10.000+08:00"}}
 ---
+# Map of Content
 
-Convert topics -> maps
+Maps of Content (MoCs) are **jumping-off points** — levelled-up topic notes that organise the
+sub-topics inside a bigger topic.
 
-Maps of Content = creating sub-topics in bigger topics as jumping off points
-
-MoC = Levelled up Topic Notes
-- organises my topics and sup-topics
-
-Let Maps of Content emerge over time.
+They **emerge over time** rather than being declared up front: a MoC earns its existence once a
+topic has enough sub-topics that a single hub note helps.
 
 ## 🌱 Latest Growth
 Recently edited notes across the vault (most recent first).
 
-| Note                                                                                          | Last Updated              | Links |
-| --------------------------------------------------------------------------------------------- | ------------------------- | ----- |
-| [[Topics/Obsidian Starter Kit Tutorial\|Obsidian Starter Kit Tutorial]]                    | 7:03 AM - August 11, 2026 | 1     |
-| [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]]  | 7:03 AM - August 11, 2026 | 1     |
-| [[Topics/Topics\|Topics]]                                                                  | 7:03 AM - August 11, 2026 | 4     |
-| [[Topics/Templates\|Templates]]                                                            | 7:03 AM - August 11, 2026 | 2     |
-| [[Topics/Plugins\|Plugins]]                                                                | 7:03 AM - August 11, 2026 | 4     |
-| [[Topics/Emergence\|Emergence]]                                                            | 7:03 AM - August 11, 2026 | 1     |
-| [[Topics/Canvas\|Canvas]]                                                                  | 7:03 AM - August 11, 2026 | 1     |
-| [[Books/📕 The Angel Next Door Spoils Me Rotten\|📕 The Angel Next Door Spoils Me Rotten]] | 6:57 AM - August 11, 2026 | 0     |
-| [[Books/📖 Book Pipeline\|📖 Book Pipeline]]                                               | 6:54 AM - August 11, 2026 | 0     |
-| [[Books/📚 Epub Library\|📚 Epub Library]]                                                 | 6:54 AM - August 11, 2026 | 0     |
 
-{ .block-language-dataview}
+- [[Wiki/concepts/homelab-to-cloud\|Homelab → Cloud: the translation table]]
+- [[Wiki/concepts/self-hosted-reading-server\|A self-hosted reading server that does not own your progress]]
+- [[Wiki/concepts/home-services-stack\|What I self-host, and the rules that keep it safe]]
+- [[Wiki/entities/xteink-x4-pro\|XTEINK X4 Pro]]
+- [[Topics/First Aid\|First Aid]]
+- [[Wiki/entities/freellmapi\|FreeLLMAPI]]
+- [[Wiki/entities/jev\|JEV]]
+- [[Wiki/concepts/personal-knowledge-management\|Personal Knowledge Management]]
+- [[Study/BCLS + AED Course/06 — Flashcards\|BCLS + AED — Flashcards]]
+- [[Study/First Aid Course/16 — Flashcards\|First Aid Course — Flashcards]]
+
+## 🌱 Published
+
+- [[Digital Garden/🌱 How I Built This PKM\|🌱 How I Built This PKM]] — how this vault and its garden are put together

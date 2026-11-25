@@ -18,7 +18,6 @@ the Books folder, so the filing rule and the type are the same fact, stated once
 
 ## 📚 Notes about this topic
 
-- [[Books/📚 Library\|📚 Library]]
 - [[Topics/Emergence\|Emergence]]
 - [[Topics/Tags\|Tags]]
 - [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]]
