@@ -73,7 +73,7 @@
 
 ## [2026-08-11] create | Hermes memory providers guide
 - a private guide: memory stack, Mnemosyne vs Hindsight, install flow
-  (deferred — not before enlistment)
+  (deferred)
 - raw: raw/articles/hermes-memory-providers-2026.md
 - index.md updated to 14 pages
 
@@ -98,8 +98,7 @@
 - index.md updated to 15 pages
 
 ## [2026-08-24] create | Training notes, batch 1 (private)
-- created: 4 private training notes — commands, equipment operation, formation
-  drill, and knot tying
+- created: 4 private training notes (one lesson each)
 - source: lesson summaries 2026-08-24; terminology fact-checked against public sources
 - NOT published to the garden
 
