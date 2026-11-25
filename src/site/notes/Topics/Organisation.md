@@ -1,23 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/topics/organisation/","tags":["topic"],"created":"1970-01-01T07:30:00.000+07:30","updated":"2026-08-10T16:44:14.498+08:00","dg-note-properties":{"tags":["topic"],"topic":["[[Topics/Organisation]]"],"updated":"2026-08-10T04:30:00","created":"2026-08-04T21:51:10"}}
+{"dg-publish":true,"permalink":"/topics/organisation/","tags":["topic"],"created":"2026-08-04T21:51:10.000+08:00","updated":"2026-08-10T04:30:00.000+08:00","dg-note-properties":{"tags":["topic"],"topic":["[[Organisation]]"],"updated":"2026-08-10T04:30:00.000+08:00","created":"2026-08-04T21:51:10.000+08:00"}}
 ---
-
 How I organise my vault — the system behind the folders, tags and topics.
 
-## 📚 Notes about this topic
-| Note                                                                                         | Updated                    | Tags                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]] | 7:03 AM - August 11, 2026  | <ul><li>#topic</li></ul>                                                                                                                                                                                                                      |
-| [[Topics/Topics\|Topics]]                                                                 | 7:03 AM - August 11, 2026  | <ul><li>#topic</li></ul>                                                                                                                                                                                                                      |
-| [[Topics/Emergence\|Emergence]]                                                           | 7:03 AM - August 11, 2026  | <ul><li>#topic</li></ul>                                                                                                                                                                                                                      |
-| [[Books/📖 Book Pipeline\|📖 Book Pipeline]]                                              | 6:54 AM - August 11, 2026  | <ul><li>#library</li></ul>                                                                                                                                                                                                                    |
-| [[Books/📚 Epub Library\|📚 Epub Library]]                                                | 6:54 AM - August 11, 2026  | <ul><li>#library</li></ul>                                                                                                                                                                                                                    |
-| [[Hermes Integration\|Hermes Integration]]                                                | 12:06 AM - August 11, 2026 | <ul></ul>                                                                                                                                                                                                                                     |
-| [[Study/PKM System\|PKM System]]                                                          | 10:09 PM - August 10, 2026 | <ul><li>#book</li><li>#card/pkm</li></ul>                                                                                                                                                                                                     |
-| [[Study/Shirt Business\|Shirt Business]]                                                  | 10:09 PM - August 10, 2026 | <ul><li>#card/shirt-business</li></ul>                                                                                                                                                                                                        |
-| [[Study/NS Essentials\|NS Essentials]]                                                    | 10:09 PM - August 10, 2026 | <ul><li>#card/ns-essentials</li></ul>                                                                                                                                                                                                         |
-| [[Books/📚 Library\|📚 Library]]                                                          | 5:47 PM - August 10, 2026  | <ul><li>#library</li></ul>                                                                                                                                                                                                                    |
-| [[Topics/Tags\|Tags]]                                                                     | 4:30 PM - August 10, 2026  | <ul><li>#source</li><li>#book</li><li>#dailynote</li><li>#topic</li><li>#unread</li><li>#read</li><li>#notstarted</li><li>#inprogress</li><li>#completed</li><li>#idea</li><li>#task</li><li>#book/nonfiction</li><li>#book/fiction</li></ul> |
-| [[Structure\|Structure]]                                                                  | 4:30 PM - August 10, 2026  | <ul></ul>                                                                                                                                                                                                                                     |
+## Tags vs topics
 
-{ .block-language-dataview}
+Two properties, two different questions:
+
+- **Tags describe what a note *is*** — its type: `book`, `source`, `idea`, `topic`,
+  `card`, `project`.
+- **Topic describes what a note is *about*** — its subject: **Organisation**, **AI**,
+  **Obsidian**.
+
+Keeping them separate is what makes the vault sortable by kind and searchable by
+subject at the same time. One tag also does real work: `#book` auto-files a note into
+the Books folder, so the filing rule and the type are the same fact, stated once.
+
+## 📚 Notes about this topic
+
+- [[Books/📚 Library\|📚 Library]]
+- [[Topics/Emergence\|Emergence]]
+- [[Topics/Tags\|Tags]]
+- [[Topics/Tags vs Topics - Obsidian Organisation\|Tags vs Topics - Obsidian Organisation]]
+- [[Topics/Topics\|Topics]]
